@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "482df4d77ddae47c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d71231a225d507b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "305c92f72c2236c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - Proyectos/Ciber/Recopilación de información.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9bef3e7abe63bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003 - Áreas/test 1 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a14248f28285940",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbd0bfbe900bd72c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23d0caf68c387309",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddd25f4a8dfe6ea0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd63e282149a7811",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "09f5a804ae70ddde",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "59a27d096a6b38f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d284c5940d224ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e394fd33be788af9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "003 - Áreas/test 1 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3979e98b0fb93b81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "003 - Áreas/test 1 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f367d3ec16939062",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9388cfd75f3f7d2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "003 - Áreas/test 1 1.md"
+              }
+            }
+          },
+          {
+            "id": "1bf2b19ad365039a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c9bef3e7abe63bf9",
+  "lastOpenFiles": [
+    "git",
+    "002 - Proyectos/Ciber/Recopilación de información.md",
+    "004 - Recursos/test 1.md",
+    "003 - Áreas/test 1 1.md",
+    "005 - Archivo/test.md",
+    "002 - Proyectos/CCNA/CCNA3/CCNA3 M2.md",
+    "002 - Proyectos/CCNA/CCNA3/CCNA3 M1.md",
+    "002 - Proyectos/CCNA/CCNA3/CCNA3 M3.md",
+    "002 - Proyectos/CCNA/CCNA1/CCNA1 M5.md",
+    "002 - Proyectos/CCNA/CCNA2/CCNA2 M2.md",
+    "002 - Proyectos/Ciber/Crowdstrike.md",
+    "002 - Proyectos/Comptia/Modulo 3.md",
+    "002 - Proyectos/Comptia/Modulo 1.md",
+    "002 - Proyectos/TSU/Curso/Bloque 2.md",
+    "Pasted image 20230921190352.png",
+    "Pasted image 20230921205737.png",
+    "Pasted image 20230921205226.png",
+    "Pasted image 20230921190553.png",
+    "002 - Proyectos/Ciber",
+    "002 - Proyectos/TSU/3 Calculo Diferencial e Integral/Funciónes.md",
+    "002 - Proyectos/Comptia",
+    "Pasted image 20230921192620.png",
+    "Pasted image 20230921191921.png",
+    "Pasted image 20230921191138.png",
+    "Pasted image 20230921190400.png",
+    "002 - Proyectos/TSU/1 Fundamentos de Computacion/0 Temario.md",
+    "Untitled.canvas",
+    "Pasted image 20230709023533.png",
+    "002 - Proyectos/TSU/Curso",
+    "002 - Proyectos/TSU/6 Probabilidad y Estadistica",
+    "002 - Proyectos/TSU/5 Gestion de Proyectos",
+    "002 - Proyectos/TSU/4 Metodos Numericos",
+    "002 - Proyectos/TSU/3 Calculo Diferencial e Integral",
+    "002 - Proyectos/TSU/2 Comunicación Oral y Escrita",
+    "002 - Proyectos/TSU/1 Fundamentos de Computacion",
+    "002 - Proyectos/CCNA/CCNA2/CCNA2 M13.md",
+    "002 - Proyectos/CCNA/CCNA2/CCNA2 M12.md",
+    "002 - Proyectos/CCNA/CCNA2/CCNA2 M11.md",
+    "002 - Proyectos/CCNA/CCNA2/CCNA2 M10.md",
+    "002 - Proyectos/CCNA/CCNA2/CCNA2 M9.md",
+    "002 - Proyectos/CCNA/CCNA2/CCNA2 M8.md",
+    "002 - Proyectos/CCNA/CCNA2/CCNA2 M7.md",
+    "002 - Proyectos/CCNA/CCNA2/CCNA2 M6.md",
+    "002 - Proyectos/CCNA/CCNA2/CCNA2 M5.md",
+    "002 - Proyectos/CCNA/CCNA2/CCNA2 M1.md",
+    "002 - Proyectos/TSU"
+  ]
+}
