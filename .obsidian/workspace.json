@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d71231a225d507b7",
+        "id": "25a91b5ec2049160",
         "type": "tabs",
         "children": [
           {
-            "id": "305c92f72c2236c4",
+            "id": "1adf2c9cee3cfbd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - Proyectos/Ciber/Recopilación de información.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9bef3e7abe63bf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003 - Áreas/test 1 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 - Áreas/test 1 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003 - Áreas/test 1 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "003 - Áreas/test 1 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,13 +138,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "9a682bfc094ea494",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,12 +164,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c9bef3e7abe63bf9",
+  "active": "1adf2c9cee3cfbd7",
   "lastOpenFiles": [
-    "git",
+    "002 - Proyectos/Ciber/asda.md",
     "002 - Proyectos/Ciber/Recopilación de información.md",
-    "004 - Recursos/test 1.md",
+    "Sin título",
+    "000 Inbox/Workflow Overview.md",
     "003 - Áreas/test 1 1.md",
+    "git",
+    "004 - Recursos/test 1.md",
     "005 - Archivo/test.md",
     "002 - Proyectos/CCNA/CCNA3/CCNA3 M2.md",
     "002 - Proyectos/CCNA/CCNA3/CCNA3 M1.md",
@@ -213,7 +203,6 @@
     "002 - Proyectos/TSU/4 Metodos Numericos",
     "002 - Proyectos/TSU/3 Calculo Diferencial e Integral",
     "002 - Proyectos/TSU/2 Comunicación Oral y Escrita",
-    "002 - Proyectos/TSU/1 Fundamentos de Computacion",
     "002 - Proyectos/CCNA/CCNA2/CCNA2 M13.md",
     "002 - Proyectos/CCNA/CCNA2/CCNA2 M12.md",
     "002 - Proyectos/CCNA/CCNA2/CCNA2 M11.md",
@@ -222,8 +211,6 @@
     "002 - Proyectos/CCNA/CCNA2/CCNA2 M8.md",
     "002 - Proyectos/CCNA/CCNA2/CCNA2 M7.md",
     "002 - Proyectos/CCNA/CCNA2/CCNA2 M6.md",
-    "002 - Proyectos/CCNA/CCNA2/CCNA2 M5.md",
-    "002 - Proyectos/CCNA/CCNA2/CCNA2 M1.md",
-    "002 - Proyectos/TSU"
+    "002 - Proyectos/CCNA/CCNA2/CCNA2 M5.md"
   ]
 }
