@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ace2d17f4ef2e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Recall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 - Proyectos/Ciber/Recopilación de información.md",
+                "file": "Active Recall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002 - Proyectos/Ciber/Recopilación de información.md",
+                "file": "Active Recall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - Proyectos/Ciber/Recopilación de información.md"
+                "file": "Active Recall.md"
               }
             }
           },
@@ -172,11 +185,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1adf2c9cee3cfbd7",
+  "active": "5ace2d17f4ef2e00",
   "lastOpenFiles": [
-    "002 - Proyectos/Ciber/asda.md",
     "002 - Proyectos/Ciber/Recopilación de información.md",
+    "Active Recall.md",
     "002 - Proyectos/Ciber/Crowdstrike.md",
+    "002 - Proyectos/Ciber/asda.md",
     "Sin título",
     "000 Inbox/Workflow Overview.md",
     "003 - Áreas/test 1 1.md",
@@ -218,7 +232,6 @@
     "002 - Proyectos/CCNA/CCNA2/CCNA2 M9.md",
     "002 - Proyectos/CCNA/CCNA2/CCNA2 M8.md",
     "002 - Proyectos/CCNA/CCNA2/CCNA2 M7.md",
-    "002 - Proyectos/CCNA/CCNA2/CCNA2 M6.md",
-    "002 - Proyectos/CCNA/CCNA2/CCNA2 M5.md"
+    "002 - Proyectos/CCNA/CCNA2/CCNA2 M6.md"
   ]
 }

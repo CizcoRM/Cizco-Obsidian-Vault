@@ -1,0 +1,1 @@
+"Apreder de forma activa"
