@@ -12,6 +12,7 @@ Depto. TI: Encargado de computadores, redes de datos, impresión, servidores, se
  - Elaborar informes sobre estado de pcs
  - Asesorar y gestionar la compra de productos
  
-
+Ticket= Se define si es Solicitud, Problema, Incidente
+Estado= Abierto, pendiente, 
 
 Manual de instalación donde se explica los programas específicos y directivas a aplicar en la pc.
