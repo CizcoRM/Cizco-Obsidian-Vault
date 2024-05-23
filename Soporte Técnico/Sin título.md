@@ -8,7 +8,9 @@ Depto. TI: Encargado de computadores, redes de datos, impresión, servidores, se
  - Documentar procesos realizados
  - Inventario de activos informaticos virtuales y fisicos
  - Realizar copias de respaldo
- -  Identificar neces
+ - Identificar necesidades informaticas
+ - Elaborar informes sobre estado de pcs
+ - Asesorar y gestionar la compra de productos
  
 
 
